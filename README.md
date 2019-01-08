@@ -1,2 +1,2 @@
 # metuTHES
-Take home exams in METU
+Take home exams at METU
